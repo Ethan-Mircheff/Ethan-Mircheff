@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ethan-Mircheff
 - 👀 I’m interested in coding, 3d software, and photography
-- 🌱 I’m currently learning CSS styling with HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to use JavaScript in HTML
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
