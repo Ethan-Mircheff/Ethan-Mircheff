@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding, 3d software, and photography
 - 🌱 I’m currently learning how to use JavaScript in HTML
 
+<br clear="both">
+
 <div align="center">
   <img height="" src="https://github-widgetbox.vercel.app/api/profile?username=Ethan-Mircheff&theme=nautilus&data=followers,repositories,stars,commits"  />
 </div>
@@ -10,7 +12,7 @@
 
 <div align="center">
   <img height="" src="https://github-widgetbox.vercel.app/api/skills?names=js,html,css,markdown&theme=nautilus&includeNames=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan-Mircheff&locale=en&hide_title=true&layout=compact&card_width=430&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan-Mircheff&locale=en&hide_title=false&layout=compact&card_width=430&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 <!---
