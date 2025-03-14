@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Ethan-Mircheff
-- 👀 I’m interested in coding, 3d software, and photography
-- 🌱 I’m currently learning how to use JavaScript in HTML
+<ul align="center">
+  <li>👋 Hi, I’m @Ethan-Mircheff</li>
+  <li>👀 I’m interested in coding, 3d software, and photography</li>
+  <li>🌱 I’m currently learning how to use JavaScript in HTML</li>
+</ul>
 
 <br clear="both">
 
